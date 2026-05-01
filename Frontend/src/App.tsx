@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { BrowserRouter, Routes, Route, useNavigate } from 'react-router-dom';
 import './App.css';
-import logoEmpresa from './assets/Latam.png'; // Asegúrate de que el nombre coincida
+import logoEmpresa from './assets/Selection LATAM.png'; // Asegúrate de que el nombre coincida
 
 // 1. INTERFAZ
 interface Candidato {
@@ -272,7 +272,7 @@ function App() {
             <img
                 src={logoEmpresa}
                 alt="Logo Corporativo"
-                style={{ height: '60px', objectFit: 'contain' }}
+                style={{ height: '120px', objectFit: 'contain' }}
             />
           </header>
 
