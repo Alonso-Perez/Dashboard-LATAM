@@ -9,7 +9,7 @@ Los datos del registro están basados en datos habituales que se realizan en pro
 <img width="1920" height="990" alt="imagen" src="https://github.com/user-attachments/assets/08184f63-8cc0-46d6-833a-5f72a8e6e4a9" />
 
 # Fin de Registro
-<img width="1910" height="989" alt="imagen" src="https://github.com/user-attachments/assets/e43090c5-fffe-4b16-b854-58bdf87619e3" />
+<img width="1920" height="990" alt="imagen" src="https://github.com/user-attachments/assets/038f80b3-e84f-48bf-9ac8-79cc8b4545e9" />
 
 # Listado
 Visualización de portal de listado de candidatos de postulación.
